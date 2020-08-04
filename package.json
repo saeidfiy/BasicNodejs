@@ -1,0 +1,8 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "sample nodejs server",
+  "main": "server.js",
+  "author": "saeid nasiri <name62777@gmail.com>",
+  "license": "MIT"
+}
