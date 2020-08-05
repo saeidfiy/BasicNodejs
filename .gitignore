@@ -6,6 +6,8 @@
 
 log/files/*
 
+!log/files/logPlace
+
 *node_modules/*
 .env
 
