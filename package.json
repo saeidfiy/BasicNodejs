@@ -4,5 +4,8 @@
   "description": "sample nodejs server",
   "main": "server.js",
   "author": "saeid nasiri <name62777@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "log-to-file": "^2.0.2"
+  }
 }

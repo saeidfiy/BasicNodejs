@@ -4,6 +4,8 @@
 ### Linux ###
 *~
 
+log/files/*
+
 *node_modules/*
 .env
 
